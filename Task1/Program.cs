@@ -1,8 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("#########");
-Console.WriteLine("#-------#");
-Console.WriteLine("#-------#");
-Console.WriteLine("#-------#");
-Console.WriteLine("#-------#");
-Console.WriteLine("#########");
+﻿using System;
+namespace Task1
+{
+	class Program
+	{
+		Console.WriteLine("#############");
+		Console.WriteLine("#-|-|-|-|-|-#");
+		Console.WriteLine("#-|-|-|-|-|-#");
+		Console.WriteLine("#-|-|-|-|-|-#");
+		Console.WriteLine("#-|-|-|-|-|-#");
+		Console.WriteLine("#############");
+	}
+}
